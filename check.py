@@ -5,6 +5,7 @@ from email.message import EmailMessage
 from pathlib import Path
 
 import requests
+from bs4 import BeautifulSoup
 
 URL = "https://www.lisd.net/our-district/all-departments/extended-school-day/esd-registration/current-program-availability"
 STATE_FILE = Path("status.json")
