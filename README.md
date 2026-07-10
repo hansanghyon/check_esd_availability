@@ -1,2 +1,1 @@
-# check_esd_availability
-check after school availability
+Add PUSHOVER_USER and PUSHOVER_TOKEN as GitHub Actions secrets, then push this repo and run the workflow.
