@@ -23,4 +23,13 @@ jobs:
         git config user.name github-actions
         git config user.email github-actions@github.com
         git add status.json
-        git diff --cached --quiet || (git commit -m "Update status" && git push)
+
+	if git diff --cached --quiet; then
+          echo "No changes"
+          exit 0
+        fi
+
+        git commit -m "Update status"
+
+        git pull --rebase origin main
+        git push
