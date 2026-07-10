@@ -1,1 +1,26 @@
-{"open": [], "closed": []}
+{
+  "open": [
+    "Ethridge",
+    "Parkway"
+  ],
+  "closed": [
+    "Bluebonnet",
+    "Bridlewood",
+    "Castle Hills",
+    "Donald",
+    "Flower Mound",
+    "Forest Vista",
+    "Hebron Valley",
+    "Heritage",
+    "Hicks",
+    "Homestead",
+    "Independence",
+    "Liberty",
+    "McAuliffe",
+    "Memorial",
+    "Morningside",
+    "Old Settlers",
+    "Prairie Trail",
+    "Wellington"
+  ]
+}
