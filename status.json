@@ -1,26 +1,30 @@
 {
   "open": [
     "Bridlewood",
-    "Ethridge",
-    "Parkway"
+    "Castle Hills",
+    "Coyote Ridge",
+    "Flower Mound",
+    "Independence",
+    "Timber Creek",
+    "Valley Ridge"
   ],
   "closed": [
     "Bluebonnet",
+    "Camey",
     "Castle Hills",
-    "Coyote Ridge",
     "Donald",
-    "Flower Mound",
+    "Ethridge",
     "Forest Vista",
     "Hebron Valley",
     "Heritage",
     "Hicks",
     "Homestead",
-    "Independence",
     "Liberty",
     "McAuliffe",
     "Memorial",
     "Morningside",
     "Old Settlers",
+    "Parkway",
     "Prairie Trail",
     "Wellington"
   ]
