@@ -1,8 +1,6 @@
 {
   "open": [
     "Bridlewood",
-    "Coyote Ridge",
-    "Flower Mound",
     "Independence",
     "Timber Creek",
     "Valley Ridge"
@@ -11,8 +9,10 @@
     "Bluebonnet",
     "Camey",
     "Castle Hills",
+    "Coyote Ridge",
     "Donald",
     "Ethridge",
+    "Flower Mound",
     "Forest Vista",
     "Hebron Valley",
     "Heritage",
@@ -24,6 +24,7 @@
     "Morningside",
     "Old Settlers",
     "Parkway",
+    "Peters Colony",
     "Prairie Trail",
     "Wellington"
   ]
