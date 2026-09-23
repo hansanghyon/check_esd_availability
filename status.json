@@ -1,31 +1,27 @@
 {
   "open": [
     "Bridlewood",
+    "Camey",
+    "Coyote Ridge",
+    "Donald",
+    "Flower Mound",
     "Independence",
-    "Indian Creek",
-    "Prairie Trail",
-    "Timber Creek",
-    "Valley Ridge"
+    "Liberty",
+    "Peters Colony"
   ],
   "closed": [
     "Bluebonnet",
-    "Camey",
     "Castle Hills",
-    "Coyote Ridge",
-    "Donald",
     "Ethridge",
-    "Flower Mound",
     "Forest Vista",
     "Hebron Valley",
     "Heritage",
     "Hicks",
     "Homestead",
-    "Liberty",
     "Memorial",
     "Morningside",
     "Old Settlers",
     "Parkway",
-    "Peters Colony",
     "Wellington"
   ]
 }
